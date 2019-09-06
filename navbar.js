@@ -34,5 +34,5 @@ function openVideos(){
 }
 
 function openAbout(){
-	open('aboutUs.html','_self');
+	open('AboutUs.html','_self');
 }
